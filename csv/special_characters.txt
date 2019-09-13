@@ -1,0 +1,5 @@
+Note:
+The dataset features special characters that show as question marks in CSV (MS-DOS), i.e. when opened with an older version of Excel.
+If you are facing this problem here's a link that might help:
+
+https://webcache.googleusercontent.com/search?q=cache:yZA2mG0ASagJ:https://superuser.com/questions/466267/excel-destroying-special-character-when-saved-as-csv+&cd=1&hl=en&ct=clnk&gl=us&client=firefox-b-1-d
